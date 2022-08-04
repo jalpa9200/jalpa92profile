@@ -1,0 +1,89 @@
+.name {
+    text-align: center;
+}
+
+.name h1 {
+    padding-top: 10px;
+    text-shadow: 2px 1px #E1DFE8;
+}
+
+.rain img {
+    border-radius: 8%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+}
+
+.pari {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    /**background: linear-gradient(to bottom, #66ffff 0%, #ff99cc 100%);**/
+    border: 2px solid black;
+}
+
+.word {
+    text-align: center;
+}
+
+.word h2 {
+    font-family: Georgia;
+    padding-top: 20px;
+    text-shadow: 2px 1px #E1DFE8;
+}
+
+.word p {
+    line-height: 1.7;
+    font-family: Times New Roman;
+}
+
+.hobbie {
+    width: 100%;
+}
+
+.hobbie h2 {
+    font-family: Georgia;
+    padding-top: 20px;
+    text-align: center;
+    text-shadow: 2px 1px #E1DFE8;
+}
+
+.hobbie img {
+    width: 33%;
+    height: 240px;
+    display: inline-block;
+    margin-left: 1.5px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.map h2 {
+    font-family: Georgia;
+    padding-top: 2px;
+    text-align: center;
+    text-shadow: 2px 1px #E1DFE8;
+}
+
+iframe {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.skill{
+    width: 100%;
+}
+.skill h2 {
+    font-family: Georgia;
+    padding-top: 20px;
+    text-align: center;
+    text-shadow: 2px 1px #E1DFE8;
+}
+.skill img{
+    margin-left: 116px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.footer{
+    text-align: center;
+    padding: 10px 0px;
+}
+.footer img{
+    margin-left: 20px;
+}
